@@ -1,2 +1,3 @@
 # Gitbook-Usage
-## connect GitHub and Gitbook
+## Connect GitHub and Gitbook
+## Change GitBook domain
