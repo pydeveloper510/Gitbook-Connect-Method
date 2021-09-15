@@ -7,3 +7,4 @@
 ## 6. Login with your GitHub account.
 ## 7. Select repository for sync.
 ## 8. Select Brench.(master)
+## 9. You can see SUMMARY.md on your linked repository.
